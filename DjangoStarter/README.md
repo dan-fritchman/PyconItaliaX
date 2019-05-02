@@ -7,7 +7,8 @@ Worked through as the intro session to PyCon Italia 2019.
 
 ## Deployment
 
-Running on Heroku at https://young-scrubland-63884.herokuapp.com/
+Running on Heroku at 
+https://fritch-django-starter-blog.herokuapp.com/
 
 A few other required bits of setup, if re-doing this:
 
